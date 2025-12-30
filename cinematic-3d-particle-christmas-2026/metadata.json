@@ -1,0 +1,7 @@
+{
+  "name": "Cinematic 3D Particle Christmas 2026",
+  "description": "A luxury 3D particle animation experience featuring a cinematic countdown to 2026 and an interactive Christmas tree with user-uploaded photo clouds.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
